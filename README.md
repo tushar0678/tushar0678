@@ -25,7 +25,7 @@ I'm Tushar 👋 a passionate Cloud/DevOps engineer from Gaza, Palestine with a s
 
 ### 🏆 Certifications
 
-![Azure DevOps Expert](https://img.shields.io/azure-devops/coverage/ORGANIZATION/PROJECT/DEFINITION_ID.svg)
+![Azure DevOps Expert](https://img.shields.io/badge/Azure_DevOps-Expert-blue?logo=azuredevops)
 ![Azure Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-FF9900?style=for-the-badge)
 ![HashiCorp Certified: Terraform Associate](https://img.shields.io/badge/HashiCorp%20Certified-Terraform%20Associate-486C8D?style=for-the-badge)
 
