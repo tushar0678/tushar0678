@@ -3,7 +3,9 @@
 
 ## Tushar Shukla - Cloud/DevOps Engineer
 
-I'm Tushar 👋 a passionate Cloud/DevOps engineer from Gaza, Palestine with a strong background in cloud technologies and automation. I enjoy building scalable and resilient systems that empower teams to deliver software faster and more efficiently. Here you'll find some of my projects, contributions, and open-source work.
+### Hi there 👋
+I'm Tushar 👋 a passionate Cloud/DevOps engineer from Agra, India with a strong background in **cloud technologies** and **automation**. I enjoy building scalable and resilient systems that empower teams to deliver software faster and more efficiently.I am also interested in **DevOps**, **Training**, **Programming**, and **Blogging**. I like to do OpenSource contribution, right now I am contributing to **Kubernetes**, **Azure**, **AWS** and **Prometheus** projects.
+ Here you'll find some of my projects, contributions, and open-source work.
 
 ### 🔧 Technologies and Tools
 
