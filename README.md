@@ -27,9 +27,9 @@ I'm Tushar 👋 a passionate Cloud/DevOps engineer from Gaza, Palestine with a s
 
 ![Azure DevOps Expert](https://img.shields.io/badge/Azure_DevOps-Expert-blue?logo=azuredevops)
 ![Azure Solution Architect](https://img.shields.io/badge/Azure-Solution_Architect-blue?logo=azure&logoColor=white)
+![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Associate-FF9900?logo=amazonaws&logoColor=white)
 ![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-blue?logo=kubernetes&logoColor=white)
-https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-green?logo=kubernetes&logoColor=white&style=for-the-badge
-![HashiCorp Certified: Terraform Associate](https://img.shields.io/badge/HashiCorp%20Certified-Terraform%20Associate-486C8D?style=for-the-badge)
+![Terraform Associate](https://img.shields.io/badge/HashiCorp-Certified_Terraform_Associate-623CE4?logo=terraform&logoColor=white)
 
 ### 📊 GitHub Stats
 
