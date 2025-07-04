@@ -12,9 +12,8 @@ I'm Tushar 👋 a passionate Cloud/DevOps engineer from Gaza, Palestine with a s
 - **CI/CD**: Azure DevOps CI/CD, Jenkins, GitHub Actions
 - **Configuration Management**: Ansible
 - **IaC**: Terraform
-- **Serverless**: SAM, Serveless Framework
 - **Monitoring**: Prometheus, Grafana, ELK Stack
-- **Scripting**: Bash, Python, Powershell
+- **Scripting**: Shell, Python, Powershell
 - **Programming**: Java, Python
 - **Version Control**: Git, GitHub, GitLab
 - **Security**: Vanta, Snyk, Akidio
@@ -31,13 +30,3 @@ I'm Tushar 👋 a passionate Cloud/DevOps engineer from Gaza, Palestine with a s
 ![Terraform Associate](https://img.shields.io/badge/HashiCorp-Certified_Terraform_Associate-623CE4?logo=terraform&logoColor=white&style=for-the-badge)
 
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdio&show_icons=true&theme=radical)
-
-### 📊 RoadMap Stats
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/645cbf295e197f85a2c3a804?variant=dark)](https://roadmap.sh)
-
-### 📊 LeetCode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/mhmdio)](https://leetcode.com/mhmdio)
