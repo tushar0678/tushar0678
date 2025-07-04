@@ -19,9 +19,6 @@ I'm Tushar 👋 a passionate Cloud/DevOps engineer from Agra, India with a stron
 - **Programming**: Java, Python
 - **Version Control**: Git, GitHub, GitLab
 
-### 📫 How to reach me
-
-- https://tusharrshuklaa.dev
 
 ### 🏆 Certifications
 ![Azure DevOps Expert](https://img.shields.io/badge/Azure_DevOps-Expert-blue?logo=azuredevops&style=for-the-badge)
