@@ -18,7 +18,6 @@ I'm Tushar 👋 a passionate Cloud/DevOps engineer from Agra, India with a stron
 - **Scripting**: Shell, Python, Powershell
 - **Programming**: Java, Python
 - **Version Control**: Git, GitHub, GitLab
-- **Security**: Vanta, Snyk, Akidio
 
 ### 📫 How to reach me
 
