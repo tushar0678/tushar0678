@@ -10,7 +10,7 @@ I'm Tushar 👋 a passionate Cloud/DevOps engineer from Agra, India with a stron
 ### 🔧 Technologies and Tools
 
 - **Cloud**: AWS, Azure
-- **Containerization**: Docker, Kubernetes, ECS, EKS, AKS
+- **Containerization**: Docker, Kubernetes, ECS, EKS, AKS, Helm
 - **CI/CD**: Azure DevOps CI/CD, Jenkins, GitHub Actions
 - **Configuration Management**: Ansible
 - **IaC**: Terraform
