@@ -4,18 +4,18 @@
 ## Tushar Shukla - Cloud/DevOps Engineer
 
 ### Hi there 👋
-I'm Tushar 👋 a passionate Cloud/DevOps engineer from Agra, India with a strong background in **cloud technologies** and **automation**. I enjoy building scalable and resilient systems that empower teams to deliver software faster and more efficiently.I am also interested in **DevOps**, **Training**, **Programming**, and **Blogging**. I like to do OpenSource contribution, right now I am contributing to **Kubernetes**, **Azure**, **AWS** and **Prometheus** projects.
+I'm Tushar 👋 a passionate Cloud/DevOps engineer from Agra, India with a strong background in **MLOps** **cloud technologies** and **Automation**. I enjoy building scalable and resilient systems that empower teams to deliver software faster and more efficiently.I am also interested in **DevOps**, **Training**, **Programming**, and **Blogging**. I like to do OpenSource contribution, right now I am contributing to **Kubernetes**, **Azure**, **AWS** and **Prometheus** projects.
  Here you'll find some of my projects, contributions, and open-source work.
 
 ### 🔧 Technologies and Tools
-
+- **MLOps**: TensorFlow, PyTorch, MLflow, Kubeflow, Metaflow, DVC
 - **Cloud**: AWS, Azure
 - **Containerization**: Docker, Kubernetes, ECS, EKS, AKS, Helm
 - **CI/CD**: Azure DevOps CI/CD, Jenkins, GitHub Actions
-- **Configuration Management**: Ansible
 - **IaC**: Terraform
-- **Monitoring**: Prometheus, Grafana, ELK Stack
+- **Monitoring**: Prometheus, Grafana, ELK Stack, Datadog
 - **Scripting**: Shell, Python, Powershell
+- **Configuration Management**: Ansible
 - **Programming**: Java, Python
 - **Version Control**: Git, GitHub, GitLab
 
