@@ -9,7 +9,7 @@ I'm Tushar 👋 a passionate Cloud/DevOps engineer from Agra, India with a stron
 
 ### 🔧 Technologies and Tools
 - **MLOps**: TensorFlow, PyTorch, MLflow, Kubeflow, Metaflow, DVC
-- **Cloud**: AWS, Azure
+- **Cloud**: AWS, Azure, Bamboo
 - **Containerization**: Docker, Kubernetes, ECS, EKS, AKS, Helm
 - **CI/CD**: Azure DevOps CI/CD, Jenkins, GitHub Actions
 - **IaC**: Terraform
