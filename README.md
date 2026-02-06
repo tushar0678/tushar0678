@@ -13,7 +13,7 @@ I'm Tushar 👋 a passionate Cloud/DevOps engineer from Agra, India with a stron
 - **Containerization**: Docker, Kubernetes, ECS, EKS, AKS, Helm
 - **CI/CD**: Azure DevOps CI/CD, Jenkins, GitHub Actions, Bamboo
 - **IaC**: Terraform
-- **Monitoring**: Prometheus, Grafana, ELK Stack, Datadog
+- **Monitoring**: Prometheus, Grafana, New Relic, ELK Stack, Datadog
 - **Scripting**: Shell, Python, Powershell
 - **Configuration Management**: Ansible
 - **Programming**: Java, Python
