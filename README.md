@@ -24,14 +24,10 @@ I'm Tushar 👋 a passionate Cloud/DevOps engineer from Agra, India with a stron
 ![Azure DevOps Expert](https://img.shields.io/badge/Azure_DevOps-Expert-blue?logo=azuredevops&style=for-the-badge)
 ![Azure Solution Architect](https://img.shields.io/badge/Azure-Solution_Architect-blue?logo=azure&logoColor=white&style=for-the-badge)
 ![AZ-900 Certified](https://img.shields.io/badge/Azure-Fundamentals-blue?logo=azure&logoColor=white&style=for-the-badge)
-
 ![AI-900 Certified](https://img.shields.io/badge/AI--900-Azure_AI_Fundamentals-2D2D2D?logo=microsoftazure&logoColor=white&style=for-the-badge)
 ![AI-102 Certified](https://img.shields.io/badge/AI--102-Azure_AI_Engineer_Associate-2D2D2D?logo=microsoftazure&logoColor=white&style=for-the-badge)
-
 ![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-blue?logo=kubernetes&logoColor=white&style=for-the-badge)
-
 ![Terraform Associate](https://img.shields.io/badge/HashiCorp-Certified_Terraform_Associate-623CE4?logo=terraform&logoColor=white&style=for-the-badge)
-
 ![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Associate-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
 
 ### 📫 How to reach me
