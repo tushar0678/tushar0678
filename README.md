@@ -6,19 +6,19 @@
 
 DevOps and MLOps Engineer with 6+ years of experience building scalable, secure and reliable cloud-native platforms across **Azure and AWS**. Specialized in **Kubernetes, Infrastructure as Code, CI/CD, MLOps, AI/ML platform engineering, model deployment and observability**.
 
-I also work as a **Freelance DevOps, Cloud & ML Trainer**, delivering practical corporate and individual training across DevOps, cloud, MLOps and AI/ML. I enjoy helping engineers move from traditional DevOps into **MLOps and AI/ML Platform Engineering** through hands-on, project-oriented learning.
+I also work as a **Freelance DevOps, Cloud & ML Trainer**, delivering practical corporate and individual training across DevOps, cloud, MLOps and AI/ML.
 
 ## 🚀 What I Work On
 
-- Designing and deploying containerized **ML workloads on Kubernetes / AKS**
-- Building **CI/CD pipelines for applications and ML models**
-- Implementing **Terraform-based Infrastructure as Code** and cloud automation
-- Designing end-to-end **MLOps pipelines** using MLflow, Kubeflow, Metaflow, DVC and Airflow
-- Deploying ML workloads across **Azure ML and AWS** environments
-- Implementing **model observability** for inference latency, throughput, drift and prediction degradation
-- Building monitoring and incident visibility using **New Relic, Prometheus and Grafana**
-- Exploring **GenAI, RAG pipelines, embeddings and vector databases**
-- Delivering hands-on **DevOps, Cloud, MLOps and ML training**
+- Containerized ML workloads on Kubernetes / AKS
+- CI/CD pipelines for applications and ML models
+- Terraform-based Infrastructure as Code and cloud automation
+- End-to-end MLOps pipelines using MLflow, Kubeflow, Metaflow, DVC and Airflow
+- ML workloads across Azure ML and AWS environments
+- Model observability for inference latency, throughput, drift and prediction degradation
+- Monitoring and incident visibility using New Relic, Prometheus and Grafana
+- GenAI, RAG pipelines, embeddings and vector databases
+- DevOps, Cloud, MLOps and ML training
 
 ## 🔧 Technologies and Tools
 
@@ -41,17 +41,28 @@ I also work as a **Freelance DevOps, Cloud & ML Trainer**, delivering practical 
 
 **Freelance:** DevOps, Cloud & ML Trainer, providing practical workshops and mentoring on cloud infrastructure, DevOps automation, MLOps and AI/ML.
 
-## 🏆 Certifications
+## 🏅 Certifications
 
-![Azure DevOps Expert](https://img.shields.io/badge/Azure_DevOps-Expert-blue?logo=azuredevops&style=for-the-badge)
-![Azure Solution Architect](https://img.shields.io/badge/Azure-Solution_Architect-blue?logo=azure&logoColor=white&style=for-the-badge)
-![AI-900 Certified](https://img.shields.io/badge/AI--900-Azure_AI_Fundamentals-2D2D2D?logo=microsoftazure&logoColor=white&style=for-the-badge)
-![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-blue?logo=kubernetes&logoColor=white&style=for-the-badge)
-![Terraform Associate](https://img.shields.io/badge/HashiCorp-Certified_Terraform_Associate-623CE4?logo=terraform&logoColor=white&style=for-the-badge)
-![AWS Certified](https://img.shields.io/badge/AWS-Certified_Cloud_Associate-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge)
+### New Relic
+- **New Relic Certified APM Practitioner** — Application Performance Monitoring, APM instrumentation, transactions, services and performance troubleshooting.
+- **New Relic Certified Foundations** — New Relic platform fundamentals, observability concepts, telemetry, dashboards and alerting.
+
+### Microsoft Azure
+- **Microsoft Certified: Azure Fundamentals (AZ-900)** — Core Azure concepts, services, architecture, security, governance and pricing.
+- **Microsoft Certified: Azure Administrator Associate (AZ-104)** — Azure compute, networking, storage, identity and resource management.
+- **Microsoft Certified: Azure Data Engineer Associate (DP-203)** — Data storage, data processing, analytics and Azure data engineering workloads.
+- **Microsoft Certified: Azure AI Fundamentals (AI-900)** — Core AI and machine learning concepts and Azure AI services.
+- **Microsoft Certified: Azure DevOps Engineer Expert (AZ-400)**
+- **Microsoft Azure Solutions Architect (AZ-303/304)**
+
+### Other
+- **Certified Kubernetes Administrator (CKA)**
+- **HashiCorp Certified: Terraform Associate**
+- **AWS Certified Cloud Practitioner**
 
 ## 📂 Featured GitHub Projects
 
+- [New Relic Portfolio Observability](https://github.com/tushar0678/New-Relic-Portfolio-observability) — New Relic Synthetic monitoring, Terraform, NRQL enrichment, alerts and Azure DevOps deployment for portfolio observability.
 - [MLOps Python Code](https://github.com/tushar0678/MLOps-python-code)
 - [MLOps Pipeline Demo](https://github.com/tushar0678/3.-MLOps---Pipeline-for-Demo)
 - [MLOps Dataset / DVC](https://github.com/tushar0678/4.-MLOps--Dataset)
@@ -65,3 +76,5 @@ I also work as a **Freelance DevOps, Cloud & ML Trainer**, delivering practical 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tushar0678)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tushar0678.github.io/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharshukla211@gmail.com)
+
+**Email:** tusharshukla211@gmail.com
