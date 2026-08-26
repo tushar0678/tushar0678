@@ -4,7 +4,7 @@
 
 ### DevOps | MLOps | AI/ML Platform Engineer | Freelance DevOps, Cloud & ML Trainer
 
-DevOps and MLOps Engineer with 6+ years of experience building scalable, secure and reliable cloud-native platforms across **Azure and AWS**. Specialized in **Kubernetes, Infrastructure as Code, CI/CD, MLOps, AI/ML platform engineering, model deployment and observability**.
+DevOps and MLOps Engineer with 7+ years of experience building scalable, secure and reliable cloud-native platforms across **Azure and AWS**. Specialized in **Kubernetes, Infrastructure as Code, CI/CD, MLOps, AI/ML platform engineering, model deployment and observability**.
 
 I also work as a **Freelance DevOps, Cloud & ML Trainer**, delivering practical corporate and individual training across DevOps, cloud, MLOps and AI/ML.
 
