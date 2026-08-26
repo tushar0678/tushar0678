@@ -48,10 +48,6 @@ I also work as a **Freelance DevOps, Cloud & ML Trainer**, delivering practical 
 [![New Relic APM Practitioner](https://img.shields.io/badge/New%20Relic-APM%20Practitioner-00AC69?style=for-the-badge&logo=newrelic&logoColor=white)](#)
 [![New Relic Foundations](https://img.shields.io/badge/New%20Relic-Foundations-00AC69?style=for-the-badge&logo=newrelic&logoColor=white)](#)
 
-**New Relic Certified APM Practitioner** — Application Performance Monitoring, APM instrumentation, transactions, services and performance troubleshooting.
-
-**New Relic Certified Foundations** — New Relic platform fundamentals, observability concepts, telemetry, dashboards and alerting.
-
 ### Microsoft Azure
 
 [![Azure Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20Fundamentals%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
@@ -60,22 +56,11 @@ I also work as a **Freelance DevOps, Cloud & ML Trainer**, delivering practical 
 [![Azure AI Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals%20AI--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
 [![Azure DevOps Engineer](https://img.shields.io/badge/Microsoft-Azure%20DevOps%20Engineer%20AZ--400-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)](#)
 
-- **Microsoft Certified: Azure Fundamentals (AZ-900)** — Core Azure concepts, services, architecture, security, governance and pricing.
-- **Microsoft Certified: Azure Administrator Associate (AZ-104)** — Azure compute, networking, storage, identity and resource management.
-- **Microsoft Certified: Azure Data Engineer Associate (DP-203)** — Data storage, data processing, analytics and Azure data engineering workloads.
-- **Microsoft Certified: Azure AI Fundamentals (AI-900)** — Core AI and machine learning concepts and Azure AI services.
-- **Microsoft Certified: Azure DevOps Engineer Expert (AZ-400)**
-- **Microsoft Azure Solutions Architect (AZ-303/304)**
-
 ### Other
 
 [![CKA](https://img.shields.io/badge/CNCF-CKA%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
 [![Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](#)
 [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
-
-- **Certified Kubernetes Administrator (CKA)**
-- **HashiCorp Certified: Terraform Associate**
-- **AWS Certified Cloud Practitioner**
 
 ## 📂 Featured GitHub Projects
 
