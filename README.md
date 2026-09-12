@@ -16,17 +16,15 @@
 
 ## 🚀 About Me
 
-I'm an **AI/ML, MLOps and DevOps Engineer** with 7+ years of experience working across **Python, cloud platforms, automation, Kubernetes, CI/CD, Infrastructure as Code and observability**.
+I'm an **AI/ML, MLOps and DevOps Engineer** with 7+ years of experience across **Python, cloud platforms, automation, Kubernetes, CI/CD, Infrastructure as Code and observability**.
 
-My current focus is moving beyond infrastructure into **production AI/ML engineering** — building the platforms, automation and observability needed to take ML workloads from experimentation to reliable production systems.
-
-I also work as a **Freelance DevOps, Cloud & ML Trainer**, helping developers and engineering teams learn through practical, hands-on projects rather than only theory.
+My current focus is **production AI/ML engineering** — building the platforms, automation and observability required to move ML workloads from experimentation to reliable production systems.
 
 - 🤖 **AI/ML:** ML pipelines, model deployment, experimentation, monitoring and GenAI
 - 🐍 **Python:** automation, data processing, ML workflows and backend tooling
 - ☁️ **Cloud:** Azure & AWS
 - ⚙️ **MLOps:** MLflow, Kubeflow, Metaflow, DVC, Airflow
-- ☸️ **Platform:** Docker, Kubernetes, AKS, EKS, ECS, Helm
+- ☸️ **Platform:** Docker, Kubernetes, AKS, EKS, Helm
 - 🏗️ **Automation:** Terraform, Ansible, Azure DevOps, GitHub Actions, Jenkins
 - 📊 **Observability:** New Relic, Prometheus, Grafana, ELK, Datadog
 - 🎓 **Freelancing & Training:** DevOps, Cloud, MLOps and ML mentoring
@@ -54,7 +52,7 @@ Data → Feature Engineering → Experimentation → Training → Evaluation
 - DVC and reproducible datasets
 - Model serving and production inference
 - ML model and application observability
-- Data drift, model degradation and performance monitoring
+- Data drift and model performance monitoring
 - GenAI and RAG application architecture
 - Embeddings and vector databases
 - AI/ML infrastructure on Azure and AWS
@@ -115,17 +113,11 @@ Data → Feature Engineering → Experimentation → Training → Evaluation
 | [**DVC MLOps**](https://github.com/tushar0678/2.-MLOps---DVC) | Dataset/version management and reproducible ML workflows |
 | [**Azure / AKS Terraform Infrastructure**](https://github.com/tushar0678/azureDevops-Terraform-AKS-infra) | Kubernetes infrastructure, Terraform and Azure DevOps automation |
 
-> 🔎 **Portfolio:** More projects, technical write-ups and career information are available on my [personal portfolio](https://tushar0678.github.io/).
-
 ---
 
 ## 💼 Freelance Services
 
-### Available for Freelance Projects & Training
-
-I provide **hands-on consulting, implementation and training** for individuals, startups and engineering teams.
-
-**I can help with:**
+Available for **freelance projects, consulting, corporate training and mentoring**.
 
 - ☁️ Azure / AWS cloud setup and automation
 - ⚙️ DevOps & CI/CD implementation
@@ -139,49 +131,39 @@ I provide **hands-on consulting, implementation and training** for individuals, 
 - 🎓 Corporate DevOps, Cloud, MLOps & ML training
 - 👨‍🏫 One-to-one technical mentoring and interview preparation
 
-<div align="center">
-
-<a href="mailto:tusharshukla211@gmail.com?subject=Freelance%20Project%20Inquiry"><img src="https://img.shields.io/badge/💼%20Hire%20Me-Start%20a%20Conversation-00AC69?style=for-the-badge" alt="Hire Me"></a>
-<a href="mailto:tusharshukla211@gmail.com?subject=Training%20Inquiry"><img src="https://img.shields.io/badge/🎓%20Training-DevOps%20%7C%20Cloud%20%7C%20ML-0078D4?style=for-the-badge" alt="Training"></a>
-
-</div>
-
 ---
 
 ## 🏆 Certifications
 
-### New Relic
-
-[![New Relic APM Practitioner](https://img.shields.io/badge/New%20Relic-APM%20Practitioner-00AC69?style=for-the-badge&logo=newrelic&logoColor=white)](#)
-[![New Relic Foundations](https://img.shields.io/badge/New%20Relic-Foundations-00AC69?style=for-the-badge&logo=newrelic&logoColor=white)](#)
-
-### Microsoft Azure
-
-[![Azure Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20Fundamentals%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
-[![Azure Administrator](https://img.shields.io/badge/Microsoft-Azure%20Administrator%20AZ--104-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
-[![Azure Data Engineer](https://img.shields.io/badge/Microsoft-Azure%20Data%20Engineer%20DP--203-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
-[![Azure AI Fundamentals](https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals%20AI--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](#)
-[![Azure DevOps Engineer](https://img.shields.io/badge/Microsoft-Azure%20DevOps%20Engineer%20AZ--400-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white)](#)
-
-### Other
-
-[![CKA](https://img.shields.io/badge/CNCF-CKA%20Kubernetes%20Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
-[![Terraform Associate](https://img.shields.io/badge/HashiCorp-Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)](#)
-[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+- Microsoft Azure AI Fundamentals
+- Microsoft Azure DevOps Engineer
+- Microsoft Azure Administrator
+- Microsoft Azure Solutions Architect
+- Certified Kubernetes Administrator (CKA)
+- HashiCorp Terraform Associate
+- AWS Cloud Practitioner
+- New Relic APM Practitioner
+- New Relic Foundations
+- Bachelor's Degree — GLA University
 
 ---
 
 ## 📈 GitHub Activity
 
+The previous cards used the public `github-readme-stats.vercel.app` and `streak-stats.demolab.com` services. Those public endpoints can become unavailable or rate-limited. The stats below use the actively maintained **GitHub Stats Extended** service instead, with caching enabled for better reliability.
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tushar0678&show_icons=true&include_all_commits=true&count_private=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tushar0678&layout=compact&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=tushar0678&hide_border=true)
+<a href="https://github.com/tushar0678">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=tushar0678&show_icons=true&include_all_commits=true&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/tushar0678">
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=tushar0678&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+</a>
 
 </div>
+
+**GitHub profile:** [github.com/tushar0678](https://github.com/tushar0678) · **Contribution graph:** available directly on my GitHub profile.
 
 ---
 
@@ -201,10 +183,6 @@ My long-term direction is **AI/ML Engineering + MLOps + Cloud Platform Engineeri
 <a href="https://www.linkedin.com/in/tushar0678/"><img src="https://img.shields.io/badge/LinkedIn-Tushar%20Shukla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://tushar0678.github.io/"><img src="https://img.shields.io/badge/Portfolio-tushar0678.github.io-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 <a href="https://github.com/tushar0678"><img src="https://img.shields.io/badge/GitHub-tushar0678-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-
-</div>
-
-<div align="center">
 
 ### ⭐ If you find my projects useful, feel free to star a repository.
 
